@@ -1,4 +1,4 @@
-year,month,day,hour,pm2.5,DEWP,TEMP,PRES,cbwd,Iws,Is,Ir
+year,month,day,hour,pm_25,DEWP,TEMP,PRES,cbwd,Iws,Is,Ir
 2010,1,2,0,129,-16,-4,1020,SE,1.79,0,0
 2010,1,2,1,148,-15,-4,1020,SE,2.68,0,0
 2010,1,2,2,159,-11,-5,1021,SE,3.57,0,0
